@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 @font-face {
     font-family: 'kufi-arabic';
-    src: url('../fonts/noto-kufi-arabic-61eb13c9e3/ArbFONTS-22015-notokufiarabic-regular.ttf');  
+    src: url('./notokufiarabic-regular.ttf');  
     font-weight: normal;
     font-style: normal;
 }
